@@ -1,12 +1,19 @@
 <h1 align="center">👋 Hello, I'm Muhammed Hamza!</h1>
 <h3 align="center">Welcome to my GitHub repository. Here you'll find a collection of code snippets and projects that showcase my skills and interests.</h3>
 
-### 🌱 Currently Learning
+#### 🔭 I’m currently working on **RISC-V 5 stage pipelined processor**
 
-- Advanced topics in RISC-V architecture
-- AI & ML with Python
+#### 🌱 I’m currently learning **| Advance concepts in RISC-V ISA | FPGA | AI & ML with Python |**
 
-### 🌐 Languages and Tools
+#### 👯 I’m looking to collaborate on **RISC-V**
+
+#### 👨‍💻 All of my projects are available at [https://github.com/Muhammed-Hamzaa](https://github.com/Muhammed-Hamzaa)
+
+#### 💬 Ask me about **C++,Verilog,Python,RISC-V**
+
+#### 📫 How to reach me **hamzaghia14@gmail.com**
+
+## 🌐 Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -24,24 +31,25 @@
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" alt="Scratch">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/FPGA-008080?style=flat-square&logo=fpga&logoColor=white" alt="FPGA">
+  <img src="https://img.shields.io/badge/Makefile-003366?style=flat-square&logo=gnu&logoColor=white" alt="Makefile">
 </p>
 
 
+## 🤝 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hamza" height="30" width="40" /></a>
+</p>
 
-### 🤝 Let's Connect
-
-- **Gmail:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamzaghia14@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn%20Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-hamza-073497228/)
-
-### 🤝 Let's Collaborate
+## 🤝 Let's Collaborate
 
 I'm open to collaboration on interesting projects. If you have an idea or want to contribute to any of my projects, feel free to reach out.
 
-### 📊 GitHub Stats and Streak
-</br>
 <div align="center">
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hamzaa&layout=compact&langs_count=8&theme=dark)](https://github.com/Muhammed-Hamzaa/github-readme-stats)
+  
 [![Muhammed Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Hamzaa&show_icons=true&count_private=true&theme=dark)](https://github.com/Muhammed-Hamzaa/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Hamzaa&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 
